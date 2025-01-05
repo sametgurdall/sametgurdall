@@ -36,7 +36,8 @@ I'm **Samet**, a recent graduate from Sakarya Applied Sciences University with a
 ---
 
 ## 📫 Let's Connect
-- **GitHub**: [YourGitHubUsername](https://github.com/YourGitHubUsername)
-- **LinkedIn**: [YourLinkedInProfile](https://linkedin.com/in/YourLinkedInProfile)
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sametgurdall)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samet-gürdal/)
 
 Feel free to check out my projects and connect with me! Together, we can create something amazing. 🚀
