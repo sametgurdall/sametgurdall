@@ -1,12 +1,15 @@
 # Hi there! 👋
 
-I'm **Samet**, a recent graduate from Sakarya Applied Sciences University with a degree in Computer Programming. I'm on an exciting journey to become a skilled Frontend Developer. 🚀
+I'm **Samet**, a Junior Frontend Developer and a recent graduate from Sakarya Applied Sciences University with a degree in Computer Programming. I'm passionate about building modern, user-friendly web applications, and I'm currently focused on advancing my skills in JavaScript and React. 🚀
+
+I enjoy crafting clean, responsive, and visually appealing interfaces while staying up-to-date with the latest web technologies. I'm always eager to learn, collaborate, and contribute to meaningful projects.
 
 ## About Me
 - 🌍 Based in Kocaeli, Turkey
 - 🖥 Passionate about creating modern and user-friendly web applications
 - 📚 Currently learning **React.js**
 - 🎯 Continuously improving my skills and exploring new technologies
+- 📩 Contact me at **[samet.devhub@gmail.com](mailto:samet.devhub@gmail.com)**
 
 ---
 
